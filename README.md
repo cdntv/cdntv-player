@@ -2,7 +2,7 @@
 
 A javascript plugin that was built to help CDNTV customers to display his own channel, provided by CDNTV Media Streaming Engine (like in the other media players developed by CDNTV team), making possible to add it to **any** website that supports javascript.
 
-Notice: this plugin is just an additional option developed to help CDNTV customers needs. The other media players developed by CDNTV Team (CDNTV Player Web, CDNTV Player Android, CDNTV Player iOS and CDNTV Player for Set-Top Boxes) will keep receiving periodic updates, as it has been currently.
+**Notice:** this plugin is just an additional option developed to help CDNTV customers needs. The other media players developed by CDNTV Team (CDNTV Player Web, CDNTV Player Android, CDNTV Player iOS and CDNTV Player for Set-Top Boxes) will keep receiving periodic updates, as it has been currently.
 
 ## Usage
 
