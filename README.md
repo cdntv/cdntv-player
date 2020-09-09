@@ -33,7 +33,7 @@ Now, create the CDNTV Player plugin with the desired parameters:
       "height": 360, //optional
       "width": 640, //optional
       "mute": false, //optional
-      "channelGid": "o1ch11" //optional
+      "channelGid": "o1ch11" //optional (UID)
   });
   myPlayer.init();
 </script>
@@ -47,7 +47,7 @@ domain | string | **required** | Domain name of the CDNTV Media Streaming Engine
 user | string | **required** | User to access the CDNTV Media Streaming Engine
 password | string | **required** | Password, corresponding to user previous configured, to access the CDNTV Media Streaming Engine
 playerElement | string | **required** | Name of the DOM element id created to display the CDNTV Player
-channelGid | string | "o1ch11" | Global identifier of the channel that you want to display on player. You can get this gid on your CDNTV MSE Manager, on channel data.
+channelGid | string | "o1ch11" | Unique identifier of the channel that you want to display on player. You can get this uid on your CDNTV MSE Manager, on channel data.
 protocol | string | "https" | Protocol to access the domain given. It will rarely be different from default, but could be "http" in less common cases.
 height | integer | 360 | Height of player element body.
 width | integer | 640 | Width of player element body.
